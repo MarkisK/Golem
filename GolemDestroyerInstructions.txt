@@ -1,0 +1,5 @@
+Golem Destroyer
+
+Welcome to Golem Destroyer. The objective is to kill as many Golems as possible in 3 minutes.
+
+Use the Arrow Keys or WASD Keys and the mouse to maneuver around Golem island. Use the space bar to destroy any Golems that you find. Use the J Key to jump over any rocks that may come in your path. Once you have completed your 3 minutes of death, your score will be displayed. Hit escape to exit the game.
